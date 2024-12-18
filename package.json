@@ -1,0 +1,14 @@
+{
+  "name": "lightningcss-filename-containing-nul-character",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "sapphi-red (https://github.com/sapphi-red)",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+    "lightningcss": "^1.28.2"
+  }
+}
